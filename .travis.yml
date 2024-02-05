@@ -1,0 +1,8 @@
+language: elixir
+os: linux
+dist: focal
+elixir:
+  - 1.16.1
+
+script:
+  - echo "Your test/build commands here"
